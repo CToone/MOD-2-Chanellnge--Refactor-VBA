@@ -31,9 +31,13 @@ Deliverable 1:
 
  
 •	There are comments to explain the purpose of the code
+
 All comments are prefaced with a ‘ in green.
+
 •	The outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook match the outputs from the AllStockAnalysis in the module 
+
 •	Unable to determine
+
 •	The pop-up messages showing the elapsed run time for the script are saved as VBA_Challenge_2017.png and VBA_Challenge_2018.png 
 
 
